@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Noto+Sans+JP&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap");
+@import '../fonts/stylesheet.css';
+@import '../fonts/1/stylesheet.css';
+body {
+  font-family: "Montserrat", sans-serif;
+  color: red;
+}
+
+h1 {
+  color: blue;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+h2 {
+  font-family: "Bungee Spice", cursive;
+}
+
+.fonts p {
+  font-family: "SFNS Display";
+  color: green;
+}
+.fonts h2 {
+  font-family: "Muller Thin DEMO";
+  color: gray;
+}/*# sourceMappingURL=app.css.map */
